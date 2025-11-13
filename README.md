@@ -28,7 +28,7 @@ This project demonstrates that a **classical SVM**, when combined with **rich ha
 
 ---
 
-##Dataset
+## Dataset
 
 This project uses the [LEVIR-CD Dataset](https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd) available on Kaggle.
 
