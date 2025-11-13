@@ -28,5 +28,14 @@ This project demonstrates that a **classical SVM**, when combined with **rich ha
 
 ---
 
-## 🗂️ Project Structure
+##Dataset
 
+This project uses the [LEVIR-CD Dataset](https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd) available on Kaggle.
+
+-Each image pair consists of:
+
+  A/ → Before (t₁) image
+
+  B/ → After (t₂) image
+
+  label/ → Ground truth binary mask (change = 1, no change = 0)
