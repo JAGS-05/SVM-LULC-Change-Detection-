@@ -53,6 +53,6 @@ This project uses the [LEVIR-CD Dataset](https://www.kaggle.com/datasets/mdrifat
 The figure below shows one example from the LEVIR-CD test set, including the before–after satellite images, the ground-truth change mask, and the SVM-predicted change map.
 
 <p align="center">
-  <img src="images/sample_result_image.png" width="900">
+  <img src="images/result_sample_image.png" width="900">
 </p>
 
